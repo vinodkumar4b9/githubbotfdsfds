@@ -1,5 +1,19 @@
+[
+
 {
-    "activeVersion": "19.01.303",
-    "internalCentralConsoleUrl": "https://11.111.111:8083/api/v1",
-    "dataType": "APPLICATION_JSON"
+"bhanu":"account-vinod:3030"
+},
+
+{
+"manu":"account-mahesh:3034"
+},
+
+{
+"mahesh":"account-bhavi:3036"
+},
+
+{
+"vinod":"account-bhoomi:3038"
 }
+
+]
